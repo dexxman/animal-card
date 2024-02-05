@@ -1,0 +1,81 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    color: aliceblue;
+    
+}
+
+ .container{
+    height: 565px;
+    width: 980px;
+    border: 1px solid ;
+    margin-left: auto; margin-right: auto;
+    margin-top: 30px;
+    background-color: orange;
+    display: flex;
+    padding-top: 10px;
+   
+    
+ }
+
+ .dog-img{
+    margin-top: 10px;
+    border: 2px solid ;
+    height: 500px; width: 300px;
+    background-image: url(./images/dog-image.jpg);
+    object-fit: cover;
+margin-left: 20px;
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+ }
+p{
+   font-size: 30px;
+   color: black;
+   font-weight: bold;
+   padding-top: 10px;
+   font-family: cursive;
+}
+ h1{
+    padding-left: 150px;
+    font-family: cursive;
+    font-size: 30px;
+ }
+ aside{
+   padding: 15px;
+   font-family: cursive;
+
+ }
+ .word{
+   padding-left: 40px;
+   
+ }
+ .dog-img-two{
+   /* object-fit: contain; */
+   margin-top: 10px;
+   border: 2px solid white;
+   /* margin-left: 20px; */
+   margin-right: 10px;
+ }
+ .bar{
+   width: 400px;
+   height: 5px;
+   background-color: black;
+   margin-top: 15px;
+ }
+ .section-two{
+   margin-top: 10px;
+   
+
+ }
+ h3{
+   font-size: 20px;
+ }
+ .bar-two{
+   width: 400px;
+   height: 5px;
+   background-color: black;
+   margin-top: 15px;
+ }
+ 
